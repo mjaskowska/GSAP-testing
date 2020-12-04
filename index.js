@@ -29,4 +29,4 @@ hamburger.addEventListener('click', _ => {
   toggleMenu.reversed() ? toggleMenu.play() : toggleMenu.reverse();
 })
 
-// transformOrigin set to 50% 50% if all elements are centered in their container
+// transformOrigin set to 50% 50% if all elements are centered in their container to rotate in the middle of the element. Accept % and px.
